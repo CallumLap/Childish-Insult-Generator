@@ -1,0 +1,6 @@
+C:\Users\computing\Documents\InsultGen\InsultGen\InsultGen\bin\Debug\InsultGen.exe.config
+C:\Users\computing\Documents\InsultGen\InsultGen\InsultGen\bin\Debug\InsultGen.exe
+C:\Users\computing\Documents\InsultGen\InsultGen\InsultGen\bin\Debug\InsultGen.pdb
+C:\Users\computing\Documents\InsultGen\InsultGen\InsultGen\obj\Debug\InsultGen.csprojResolveAssemblyReference.cache
+C:\Users\computing\Documents\InsultGen\InsultGen\InsultGen\obj\Debug\InsultGen.exe
+C:\Users\computing\Documents\InsultGen\InsultGen\InsultGen\obj\Debug\InsultGen.pdb
